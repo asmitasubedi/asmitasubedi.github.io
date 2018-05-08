@@ -38,6 +38,7 @@ plugins:
 #   - Gemfile.lock
 #   - node_modules
 #   - vendor/bundle/
+collections: [sections]
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
